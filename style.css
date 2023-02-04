@@ -1,0 +1,151 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: ReithSans,Arial,Helvetica,freesans,sans-serif;
+    width: 100%;
+}
+
+
+.top{
+    display: flex;
+    justify-content: space-around;
+    background-color: rgb(107, 102, 104);
+    color: white;
+
+}
+.top-1{
+    display: flex;
+    gap: 20px;
+}
+
+.logo{
+    width: 110px;
+    height: 50px;
+}
+
+.sign{
+    padding-top: 5px;
+    width: 40px;
+    height: 40px;
+}
+
+.top-2{
+    display: flex;
+    gap: 20px;
+}
+
+.news{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 50px;
+    color:#8C8E90;
+}
+.top-news{
+    margin-left: 50px;
+    display: flex;
+
+}
+
+.top-news-1{
+    width: 600px;
+    height: 350px;
+    color: white;
+}
+.top-news-1>h1{
+    padding-top: 150px;
+    padding-left: 20px;
+
+}
+
+.flex{
+    display: flex;
+    gap: 20px;
+    margin-left: 20px;
+    color: white;
+}
+
+
+.top-news-01{
+    width: 300px;
+    height: 150px;
+}
+
+.top-news-01>h4{
+    padding-top: 70px;
+    padding-left: 10px;
+}
+.top-news-01>p{
+    padding-left: 10px;
+}
+
+.top-news-1>p{
+    padding-left:20px;
+}
+
+.mid{
+    display: flex;
+    gap: 30px;
+    margin-left: 50px;
+
+}
+
+.mid-1{
+    width: 30%;
+}
+.mid-1>img{
+    width: auto;
+    height: 220px;
+}
+
+
+.reel{
+    background-image: url(./background.jpg);
+    background-size: cover;
+    width: auto;
+    height: 500px;
+    display: flex;
+    gap: 30PX;
+}
+
+.reel-1{
+    width: 30%;
+    height: 350px;
+    background-color: white;
+    margin-left: 10px;
+    margin-top: 80px;
+}
+
+.reel-1>img{
+    width: 404px;
+    height: 220px;
+}
+
+
+
+
+.india{
+    display: flex;
+    gap: 40px;
+    margin-left: 50px;
+
+}
+
+.indai-1{
+    width: 30%;
+}
+.indai-1>img{
+    width: 280px;
+    height: 180px;
+}
+
+.indai-1>h2{
+    font-size: 18px;
+}
+
+.indai-1>p{
+    font-size: 12px;
+}
+
+
+
+
